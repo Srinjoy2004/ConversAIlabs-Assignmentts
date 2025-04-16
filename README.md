@@ -1,4 +1,4 @@
-# 🤖 Vapi Assistant Creator API
+# 🤖 Unified Agent Creator API – A single wrapper API to create conversational agents across multiple platforms like Vapi and Retell.
 
 This project provides a simple Flask-based REST API for creating AI assistants using **Vapi** and **Retell** providers. It integrates both platforms to enable dynamic assistant generation with a single API endpoint.
 
